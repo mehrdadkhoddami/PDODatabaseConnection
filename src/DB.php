@@ -12,9 +12,9 @@ namespace MehrdadKhoddami\PDODatabase;
 
 use PDO;
 use PDOException;
-use \Mehrdad\PDODatabase\MysqlCredentialsNotProvidedException;
-use \Mehrdad\PDODatabase\MysqlCanNotConnectException;
-use \Mehrdad\PDODatabase\MysqlExternalConnectionNotProvidedException;
+use \MehrdadKhoddami\PDODatabase\MysqlCredentialsNotProvidedException;
+use \MehrdadKhoddami\PDODatabase\MysqlCanNotConnectException;
+use \MehrdadKhoddami\PDODatabase\MysqlExternalConnectionNotProvidedException;
 
 
 class DB
